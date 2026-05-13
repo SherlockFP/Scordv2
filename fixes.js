@@ -1,5 +1,7 @@
 (function () {
   "use strict";
+  console.log("[Fixes] LOADED - v2.5");
+  
   var _API = typeof API_BASE !== "undefined" ? API_BASE : "/api";
 
   /* ── Safe localStorage helpers ──────────────────────── */
